@@ -1,0 +1,51 @@
+Student_ID,Department,Level,Attendance_Percentage,Average_Exam_Score
+STU1001,Mathematics,100,84.5,47.1
+STU1002,Physics,100,80.6,92.5
+STU1003,Mathematics,400,41.9,36.6
+STU1004,Chemistry,100,73.7,80.1
+STU1005,Engineering,200,67.0,49.5
+STU1006,Computer Science,200,81.9,53.8
+STU1007,Physics,200,97.4,53.6
+STU1008,Mathematics,400,45.8,89.3
+STU1009,Biology,100,83.8,67.5
+STU1010,Engineering,100,73.1,88.1
+STU1011,Economics,200,82.3,33.2
+STU1012,Chemistry,300,99.1,89.9
+STU1013,Mathematics,400,56.7,74.5
+STU1014,Economics,200,62.2,44.7
+STU1015,Biology,100,76.5,42.0
+STU1016,Chemistry,200,67.7,48.9
+STU1017,Chemistry,300,90.6,84.3
+STU1018,Chemistry,100,88.3,58.1
+STU1019,Mathematics,200,94.8,69.7
+STU1020,Economics,200,79.3,57.7
+STU1021,Statistics,200,55.9,47.3
+STU1022,Biology,400,93.9,58.0
+STU1023,Chemistry,200,70.6,36.4
+STU1024,Computer Science,100,49.2,41.2
+STU1025,Engineering,100,63.1,71.7
+STU1026,Statistics,300,98.3,90.3
+STU1027,Computer Science,100,80.9,67.6
+STU1028,Biology,300,46.7,60.4
+STU1029,Statistics,100,97.2,91.3
+STU1030,Biology,200,70.5,37.4
+STU1031,Biology,200,49.2,83.4
+STU1032,Computer Science,300,69.3,37.8
+STU1033,Economics,300,54.4,46.9
+STU1034,Mathematics,100,83.9,87.1
+STU1035,Physics,200,79.6,96.3
+STU1036,Physics,300,71.7,72.5
+STU1037,Chemistry,200,82.8,57.9
+STU1038,Economics,400,94.0,61.6
+STU1039,Chemistry,200,43.8,31.5
+STU1040,Chemistry,200,40.4,79.5
+STU1041,Computer Science,200,44.0,32.2
+STU1042,Economics,100,70.8,49.5
+STU1043,Statistics,200,72.4,80.6
+STU1044,Statistics,200,87.1,86.5
+STU1045,Chemistry,100,45.8,60.2
+STU1046,Engineering,400,68.0,81.0
+STU1047,Mathematics,100,64.2,53.8
+STU1048,Mathematics,200,51.5,67.5
+STU1049,Physics,400,51.0,62.4
+STU1050,Mathematics,400,88.5,89.9
